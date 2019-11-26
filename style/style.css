@@ -69,7 +69,7 @@ color: #fafafa;
   padding-left: 300px;
   box-sizing: border-box;
   display: flex;
-  background-color: rgb(235, 223, 223);
+  background-color: palevioletred;
   flex-direction: row;
   box-shadow: 0 1px 3px 0 rgba(19, 18, 18, 0.25);
 }
@@ -85,7 +85,7 @@ color: #fafafa;
   align-items: center;
   text-decoration: none;
   color: #000000;
-  background-color: #0d7bb3;
+  background-color: skyblue;
   border-radius: 25px;
   font-size: 15px;
   font-weight: 700;
@@ -107,7 +107,7 @@ color: #fafafa;
 .right_pane {
   width: 70%;
   height: 250px;
-  background-color: rgb(241, 233, 233);
+  background-color: brown;
   border: 1px solid #071118;
   border-radius: 7px;
   padding: 16px;
